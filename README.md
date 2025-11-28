@@ -1,6 +1,6 @@
 # LLM Analysis Quiz
 
-FastAPI app for handling IITM LLM Analysis Quiz submissions.
+FastAPI app for handling IITM LLM Analysis Quiz submission.
 
 ## Usage
 1. `pip install -r requirements.txt`
